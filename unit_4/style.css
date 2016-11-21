@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+h1 {
+	text-align: center;
+	background: url(http://www.wheretraveler.com/sites/default/files/styles/promoted_image_social_large/public/Midtown%20Atlanta%20reflected%20in%20lake%20at%20Piedmont%20Park_c-trekandshoot-shutterstock_177033728.jpg?itok=_OhA2kKJ);
+	background-size: cover;
+	color: #fff;
+	font-family: 'Bungee Inline',cursive;
+	font-weight: normal;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+hr {
+	
+	
+  width: 500px;
+}
+p {
+	font-size: 20px;
+}
